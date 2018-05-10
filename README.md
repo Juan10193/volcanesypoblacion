@@ -13,9 +13,9 @@ Clarsificar los volcanes deacuerdo a su elevación respecto al nivel del mar:
 Mostrar un mapa Poligonal clasificando la población de cada país:  
 * **Verde:** Países con menos de 1 Millon de habitantes.  
 * **Amarillo:** Países con más de 1 Millon de habitantes.  
-* **Roro:** Países con mas de 20 Millones de habitantes.  
+* **Rojo:** Países con mas de 20 Millones de habitantes.  
   
-Activar o desactivar la visualización de Volcanes y Polígonos o mostrar hambos gracias al sistema de cápas de Folium.  
+Activar o desactivar la visualización de Volcanes y Polígonos o mostrar ambos gracias al sistema de cápas de Folium.  
   
 ## Desarrollo  
 1. Uso de librerias **[pandas](https://pandas.pydata.org/)** y **[folium](https://github.com/python-visualization/folium)**  
